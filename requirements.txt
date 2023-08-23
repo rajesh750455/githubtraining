@@ -4,3 +4,7 @@ Type option
 sound
 dark mood
 video call
+
+payment option
+send money
+receive money
